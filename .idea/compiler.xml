@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="com.waylau.spring.cloud.cloud-weather-basic.main" target="1.8" />
+      <module name="com.waylau.spring.cloud.cloud-weather-basic.test" target="1.8" />
+      <module name="com.yang.cloud-weather-basic.main" target="1.8" />
+      <module name="com.yang.cloud-weather-basic.test" target="1.8" />
       <module name="com.yang.gradle-hello-world.main" target="1.8" />
       <module name="com.yang.gradle-hello-world.test" target="1.8" />
       <module name="com.yang.gradle-rest-case.main" target="1.8" />
