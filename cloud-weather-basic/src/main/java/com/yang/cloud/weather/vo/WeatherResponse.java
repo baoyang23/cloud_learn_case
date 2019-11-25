@@ -15,7 +15,7 @@ public class WeatherResponse implements Serializable {
     /**
      * 消息数据
      */
-    private Weather weather;
+    private Weather data;
 
     /**
      * 消息状态
@@ -27,12 +27,12 @@ public class WeatherResponse implements Serializable {
      */
     private String desc;
 
-    public Weather getWeather() {
-        return weather;
+    public Weather getData() {
+        return data;
     }
 
-    public void setWeather(Weather weather) {
-        this.weather = weather;
+    public void setData(Weather data) {
+        this.data = data;
     }
 
     public String getStatus() {

@@ -1,5 +1,6 @@
 package com.yang.cloud.weather.service;
 
+import com.alibaba.fastjson.JSONObject;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.yang.cloud.weather.vo.WeatherResponse;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -52,7 +53,6 @@ public class WeatherDataServiceImpl implements WeatherDataService {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         return weather;
     }
 
