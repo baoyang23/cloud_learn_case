@@ -4,12 +4,18 @@
     <bytecodeTargetLevel>
       <module name="com.waylau.spring.cloud.cloud-weather-basic.main" target="1.8" />
       <module name="com.waylau.spring.cloud.cloud-weather-basic.test" target="1.8" />
+      <module name="com.waylau.spring.cloud.cloud-weather-config-client.main" target="1.8" />
+      <module name="com.waylau.spring.cloud.cloud-weather-config-client.test" target="1.8" />
+      <module name="com.waylau.spring.cloud.cloud-weather-config-server.main" target="1.8" />
+      <module name="com.waylau.spring.cloud.cloud-weather-config-server.test" target="1.8" />
       <module name="com.waylau.spring.cloud.cloud-weather-eureka-client.main" target="1.8" />
       <module name="com.waylau.spring.cloud.cloud-weather-eureka-client.test" target="1.8" />
       <module name="com.waylau.spring.cloud.cloud-weather-eureka-server.main" target="1.8" />
       <module name="com.waylau.spring.cloud.cloud-weather-eureka-server.test" target="1.8" />
       <module name="com.yang.cloud-weather-basic.main" target="1.8" />
       <module name="com.yang.cloud-weather-basic.test" target="1.8" />
+      <module name="com.yang.cloud-weather-config-client.main" target="1.8" />
+      <module name="com.yang.cloud-weather-config-client.test" target="1.8" />
       <module name="com.yang.cloud-weather-config-server.main" target="1.8" />
       <module name="com.yang.cloud-weather-config-server.test" target="1.8" />
       <module name="com.yang.cloud-weather-eureka-client.main" target="1.8" />
