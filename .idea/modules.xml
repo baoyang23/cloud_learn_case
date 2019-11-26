@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.waylau.spring.cloud.cloud-weather-eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/com.waylau.spring.cloud.cloud-weather-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.waylau.spring.cloud.cloud-weather-eureka-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.waylau.spring.cloud.cloud-weather-eureka-server.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.waylau.spring.cloud.cloud-weather-eureka-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.waylau.spring.cloud.cloud-weather-eureka-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yang.cloud-weather-config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yang.cloud-weather-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yang.cloud-weather-config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yang.cloud-weather-config-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yang.cloud-weather-config-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yang.cloud-weather-config-server.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yang.gradle-hello-world.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yang.gradle-hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yang.gradle-hello-world.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yang.gradle-hello-world.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yang.gradle-hello-world.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yang.gradle-hello-world.test.iml" />
